@@ -1,0 +1,27 @@
+{
+  "blacklist": [
+    "ESSENCE_GOLD",
+    "ESSENCE_DRAGON",
+    "ESSENCE_ICE",
+    "ESSENCE_CRIMSON",
+    "ESSENCE_SPIDER",
+    "ESSENCE_DIAMOND",
+    "ESSENCE_UNDEAD",
+    "ESSENCE_WITHER",
+    "FLAWED_JASPER_GEMSTONE"
+  ],
+  "whitelist": {
+    "ENCHANTED_SNOW_BLOCK": {
+      "maxPrice": 600,
+      "minProfit": 20,
+      "minPercentage": 3,
+      "minBuyOrder": 100,
+      "maxBuyOrder": 1000,
+      "minSellOffer": 100,
+      "maxSellOffer": 1000,
+      "minBuyVolume": 100000,
+      "minSellVolume": 100000
+    }
+  },
+  "selectiveBuys": {}
+}
