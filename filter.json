@@ -10,7 +10,10 @@
     "ESSENCE_WITHER",
     "FLAWED_JASPER_GEMSTONE",
     "TASTY_CHEESE",
-    "INK_SACK"
+    "INK_SACK",
+    "FLAWED_JASPER_GEM",
+    "ENCHANTED_HARD_STONE",
+    "CRUDE_GABAGOOL"
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
