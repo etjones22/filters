@@ -14,7 +14,8 @@
     "ENCHANTED_HARD_STONE",
     "CRUDE_GABAGOOL",
     "FLAWED_PERIDOT_GEM",
-    "YOUNG_FRAGMENT"
+    "YOUNG_FRAGMENT",
+    "VOLTA"
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
