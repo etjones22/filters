@@ -17,7 +17,8 @@
     "YOUNG_FRAGMENT",
     "VOLTA",
     "ENCHANTMENT_MANA_STEAL_1",
-    "DERELICT_ASHE"
+    "DERELICT_ASHE",
+    "ENCHANTED_NETHERRACK"
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
