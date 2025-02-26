@@ -15,7 +15,8 @@
     "CRUDE_GABAGOOL",
     "FLAWED_PERIDOT_GEM",
     "YOUNG_FRAGMENT",
-    "VOLTA"
+    "VOLTA",
+    "ENCHANTMENT_MANA_STEAL_1"
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
