@@ -65,7 +65,9 @@
     "SIMPLE_CARROT_CANDY",
     "DIGESTED_MUSHROOMS",
     "WITHER_SOUL",
-    "HALLOWED_SKULL"
+    "HALLOWED_SKULL",
+    "MIMIC_FRAGMENT",
+    "LIGHT_BAIT"
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
