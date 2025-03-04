@@ -1,0 +1,37 @@
+{
+  "key": "KLEM2bx48Q7QGy6I.mbf.aa98b0e0c2a40f2aca973e130e27ecde",
+  "username": "chorey",
+  "webhook": "https://discord.com/api/webhooks/1342477257159217152/l3NLHZ-61c2BQllGnnfmojA87wk7mOFoyPAUnbwcPh-ziPW5hReKG3VMUA8XH6LdKpAC",
+  "detailedWebhooks": true,
+  "webpage": {
+    "port": 9090,
+    "password": "12345"
+  },
+  "profit": {
+    "min": 1000,
+    "max": 100000,
+    "minPercentage": 10
+  },
+  "price": {
+    "maxPricePerUnitBuy": 100000,
+    "maxPricePerUnitSell": 1000000,
+    "minPricePerUnitBuy": 500,
+    "manipulationTriggerPercentage": 10
+  },
+  "orders": {
+    "maxBuyOrders": 5,
+    "sortBy": "coinsPerHour",
+    "relistAfterType": "orderAmount",
+    "relistAfter": 1
+  },
+  "volume": {
+    "minBuy": 50,
+    "minSell": 50
+  },
+  "purse": {
+    "minPurse": 1000000,
+    "maxSpentPerOrder": 3000000
+  },
+  "tax": 1.1,
+  "selectiveBuys": false
+}
