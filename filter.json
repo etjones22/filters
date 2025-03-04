@@ -69,7 +69,10 @@
     "GREEN_CANDY",
     "ENCHANTED_PUFFERFISH",
     "UNSTABLE_FRAGMENT",
-    "BURNING_EYE"
+    "BURNING_EYE",
+    "RED_GIFT",
+    "HEMOGLASS",
+    "PARTY_GIFT"
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
