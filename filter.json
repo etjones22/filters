@@ -72,7 +72,11 @@
     "BURNING_EYE",
     "RED_GIFT",
     "HEMOGLASS",
-    "PARTY_GIFT"
+    "PARTY_GIFT",
+    "CHEESE_FUEL",
+    "TENTACLE_MEAT",
+    "HOLY_FRAGMENT",
+    "GLACIAL_FRAGMENT
   ],
   "whitelist": {
     "ENCHANTED_SNOW_BLOCK": {
