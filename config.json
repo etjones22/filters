@@ -30,7 +30,7 @@
   },
   "purse": {
     "minPurse": 1000000,
-    "maxSpentPerOrder": 3000000
+    "maxSpentPerOrder": 1000000
   },
   "tax": 1.1,
   "selectiveBuys": false
